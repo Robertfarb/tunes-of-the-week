@@ -1,0 +1,24 @@
+{
+  "name": "tunes-of-the-week",
+  "version": "1.0.0",
+  "description": "Tunes of the week is a data visuaization using D3.js and the Last.fm public API to provide users with last week's top artist's and last week's top tunes filtered by country.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robertfarb/tunes-of-the-week.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robertfarb/tunes-of-the-week/issues"
+  },
+  "homepage": "https://github.com/Robertfarb/tunes-of-the-week#readme"
+}
