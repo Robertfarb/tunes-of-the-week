@@ -45,8 +45,8 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 **Over the weekend**:
 - [x] Research LastFM API and D3.js in order to begin implementation on Monday
 - [x] Refresher on HTML Canvas to render canvas for bubble chart
-- [ ] Setup project filetree, webpack, and entry file
-- [ ] Install npm d3 package and research methods I'll need for my visualization
+- [x] Setup project filetree, and package.json
+- [x] Install npm d3 package and research methods I'll need for my visualization
 
 **Day 1**: Write the shell for the artists.js and tracks.js, Get the API calls completed, and Add two buttons to the homescreen which will render tracks or artists.  Goals for the day:
 
