@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Robertfarb/tunes-of-the-week/issues"
   },
-  "homepage": "https://github.com/Robertfarb/tunes-of-the-week#readme"
+  "homepage": "https://github.com/Robertfarb/tunes-of-the-week#readme",
+  "dependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
 }
