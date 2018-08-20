@@ -50,19 +50,19 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 
 **Day 1**: Write the shell for the artists.js and tracks.js, Get the API calls completed, and Add two buttons to the homescreen which will render tracks or artists.  Goals for the day:
 
-- [ ] Get `webpack` serving files and frame out index.html
+- [x] Get `webpack` serving files and frame out index.html
 - [ ] Research enough D3 to save each circle as a dom node and append data to corresponding circles
-- [ ] Sucessfully make API calls and have relevant data coming back in a useable structure
-- [ ] Complete filetree including index.html and main.css (choose fonts and background image for the page)
+- [x] Sucessfully make API calls and have relevant data coming back in a useable structure
+- [x] Complete filetree including index.html and main.css (choose fonts and background image for the page)
 - [ ] Research D3 enough to know how to render the interactive bubble chart
 
 **Day 2**: Completely dive into D3.js and create the circles that will populate the chart. Manipulate the circle sizes dependent on their data, and add the artist name as data to the circle
 
+- [ ] Render all bubbles on graph
 - [ ] Complete artists.js and add functional button on index.html which will call the function
-- [ ] Get sounds to play on collisions
-- [ ] Build first sound library
+- [ ] Implement d3 Force into bubbles physics
 - [ ] Get collision graphics working
-- [ ] Make the `Asteroid`s able to be created with mouse. Set vectors on mouse release.
+- [ ] Figure out how to add a background image to a svg element
 
 **Day 3**: Make the functional search bar that will allow users to see top hits filtered by country
 
