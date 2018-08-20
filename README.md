@@ -50,7 +50,7 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 
 **Day 1**: Write the shell for the artists.js and tracks.js, Get the API calls completed, and Add two buttons to the homescreen which will render tracks or artists.  Goals for the day:
 
-- [ ] Get `webpack` serving files and frame out index.html
+- [x] Get `webpack` serving files and frame out index.html
 - [ ] Research enough D3 to save each circle as a dom node and append data to corresponding circles
 - [ ] Sucessfully make API calls and have relevant data coming back in a useable structure
 - [x] Complete filetree including index.html and main.css (choose fonts and background image for the page)
