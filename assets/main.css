@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+.home-header {
+  text-align: center;
+}
+
+#chart-canvas {
+  margin: 0 auto;
+  display: block;
+}
+
+.top-artists, .top-tunes {
+  padding: 25px;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #4caf50c4;
+  box-shadow: 1px 1px #80808054;;
+}
+
+svg {
+  width: 500;
+  height: 500;
+}
