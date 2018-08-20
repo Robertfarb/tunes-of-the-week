@@ -59,10 +59,8 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 **Day 2**: Completely dive into D3.js and create the circles that will populate the chart. Manipulate the circle sizes dependent on their data, and add the artist name as data to the circle
 
 - [ ] Complete artists.js and add functional button on index.html which will call the function
-- [ ] Get sounds to play on collisions
-- [ ] Build first sound library
-- [ ] Get collision graphics working
-- [ ] Make the `Asteroid`s able to be created with mouse. Set vectors on mouse release.
+- [ ] Implement the D3 animations for the circles populating the graphs
+- [ ] Figure out how to use background images for the bubbles, or create a nice gradient for them
 
 **Day 3**: Make the functional search bar that will allow users to see top hits filtered by country
 
