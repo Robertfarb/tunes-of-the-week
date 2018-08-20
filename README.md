@@ -53,7 +53,7 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 - [ ] Get `webpack` serving files and frame out index.html
 - [ ] Research enough D3 to save each circle as a dom node and append data to corresponding circles
 - [ ] Sucessfully make API calls and have relevant data coming back in a useable structure
-- [ ] Complete filetree including index.html and main.css (choose fonts and background image for the page)
+- [x] Complete filetree including index.html and main.css (choose fonts and background image for the page)
 - [ ] Research D3 enough to know how to render the interactive bubble chart
 
 **Day 2**: Completely dive into D3.js and create the circles that will populate the chart. Manipulate the circle sizes dependent on their data, and add the artist name as data to the circle
