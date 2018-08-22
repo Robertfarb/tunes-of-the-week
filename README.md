@@ -58,7 +58,7 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 **Day 2**: Completely dive into D3.js and create the circles that will populate the chart. Manipulate the circle sizes dependent on their data, and add the artist name as data to the circle
 
 - [x] Render all bubbles on graph
-- [ ] Complete artists.js and add functional button on index.html which will call the function
+- [ ] Complete tunes.js and add functional button on index.html which will call the function
 - [ ] Implement d3 Force into bubbles physics
 - [ ] Get collision graphics working
 - [ ] Figure out how to add a background image to a svg element
