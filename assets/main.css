@@ -55,3 +55,9 @@ aside {
 .aside > button {
   padding: 15px;
 }
+
+.info-box {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
