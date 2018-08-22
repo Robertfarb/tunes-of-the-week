@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 
+h1 {
+  font-family: 'Bangers', cursive;
+}
+
 .home-header {
   text-align: center;
 }
@@ -19,7 +23,19 @@ body {
   box-shadow: 1px 1px #80808054;;
 }
 
-svg {
-  width: 500;
-  height: 500;
+footer {
+  padding: 15px;
+  display: flex;
+  justify-content: flex-end;
 }
+
+i {
+  color: #4e4e4e;
+  margin: 10px;
+}
+
+i:hover{
+  cursor: pointer;
+  color: #676767;
+}
+

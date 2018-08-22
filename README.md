@@ -30,7 +30,7 @@ This app will have a single screen in which I will manipulate dom elements based
 This project will be implemented with the following technologies:
 
 - Vanilla JavaScript for overall structure and DOM manipulation,
-- `D3.js` for rendering the bubble chart,
+- `D3.js` and  `SVG` for rendering the bubble chart
 - `Lastfm API` for fetching top hits information
 - Webpack to bundle and serve up the various scripts
 
@@ -54,7 +54,7 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 - [ ] Research enough D3 to save each circle as a dom node and append data to corresponding circles
 - [x] Sucessfully make API calls and have relevant data coming back in a useable structure
 - [x] Complete filetree including index.html and main.css (choose fonts and background image for the page)
-- [ ] Research D3 enough to know how to render the interactive bubble chart
+- [x] Research D3 enough to know how to render the interactive bubble chart
 
 **Day 2**: Completely dive into D3.js and create the circles that will populate the chart. Manipulate the circle sizes dependent on their data, and add the artist name as data to the circle
 
