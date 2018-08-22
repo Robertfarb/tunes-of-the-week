@@ -30,7 +30,7 @@ This app will have a single screen in which I will manipulate dom elements based
 This project will be implemented with the following technologies:
 
 - Vanilla JavaScript for overall structure and DOM manipulation,
-- `D3.js` and  `SVG` for rendering the bubble chart
+- `D3.js` for rendering the bubble chart,
 - `Lastfm API` for fetching top hits information
 - Webpack to bundle and serve up the various scripts
 
@@ -51,14 +51,13 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 **Day 1**: Write the shell for the artists.js and tracks.js, Get the API calls completed, and Add two buttons to the homescreen which will render tracks or artists.  Goals for the day:
 
 - [x] Get `webpack` serving files and frame out index.html
-- [ ] Research enough D3 to save each circle as a dom node and append data to corresponding circles
 - [x] Sucessfully make API calls and have relevant data coming back in a useable structure
 - [x] Complete filetree including index.html and main.css (choose fonts and background image for the page)
 - [x] Research D3 enough to know how to render the interactive bubble chart
 
 **Day 2**: Completely dive into D3.js and create the circles that will populate the chart. Manipulate the circle sizes dependent on their data, and add the artist name as data to the circle
 
-- [ ] Render all bubbles on graph
+- [x] Render all bubbles on graph
 - [ ] Complete artists.js and add functional button on index.html which will call the function
 - [ ] Implement d3 Force into bubbles physics
 - [ ] Get collision graphics working
