@@ -1,13 +1,21 @@
 body {
   text-align: center;
+  background: #40ffa896;
+}
+
+button {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 h1 {
-  font-family: 'Bangers', cursive;
+  font-family: 'Archivo', sans-serif;
+  font-weight: 500;
 }
 
 .home-header {
   text-align: center;
+  color: #4e4e4e;
 }
 
 #chart-canvas {
@@ -19,7 +27,7 @@ h1 {
   padding: 25px;
   border-radius: 5px;
   margin: 5px;
-  background-color: #4caf50c4;
+  background-color: #B23200;
   box-shadow: 1px 1px #80808054;;
 }
 
@@ -57,7 +65,9 @@ aside {
 }
 
 .info-box {
-  background-color: white;
+  background-color: #14CC44;
   padding: 10px;
   border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
