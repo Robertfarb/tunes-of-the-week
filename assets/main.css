@@ -39,3 +39,19 @@ i:hover{
   color: #676767;
 }
 
+.country-input {
+  padding: 15px;
+  border-radius: 25px;
+}
+
+.country-input:focus {
+  outline: none;
+}
+
+aside {
+  float: left;
+}
+
+.aside > button {
+  padding: 15px;
+}
