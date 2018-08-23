@@ -6,9 +6,9 @@
   <title>Tunes of the Week</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" media="screen" href="./assets/main.css" />
+  <link rel="shortcut icon" type="image/png" href="./assets/images/favicon.ico" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
     crossorigin="anonymous">
-  <!-- <link href="https://fonts.googleapis.com/css?family=Bangers|Gloria+Hallelujah|Josefin+Sans|Merriweather+Sans|Roboto" rel="stylesheet"> -->
   <link href="https://fonts.googleapis.com/css?family=Archivo:500|Open+Sans:300,700" rel="stylesheet">
   <script src="./lib/bundle.js"></script>
 </head>
@@ -16,7 +16,7 @@
   <button id="show-top-artists" class="top-artists">See Top Artists</button>
   <button id="show-top-tunes" class="top-tunes">See Top Tunes</button>
   <i id="info-modal-toggle" class="fas fa-info fa-5x info-modal-icon"></i>
-  <h1 class="home-header">Last Week's Top Artist's in the United States</h1>
+  <h1 id="tunes-header" class="home-header">Last Week's Top Artist's in the United States</h1>
   <aside>
     <form action="">
       <input class="country-input" placeholder="Input a country..." type="text" />
@@ -28,11 +28,18 @@
       <a href="https://github.com/Robertfarb" target="_blank"><i class="fab fa-github fa-4x"></i></a>
       <a href="https://www.linkedin.com/in/robert-farb-613a3751/"><i class="fab fa-linkedin-in fa-4x"></i></a>
   </footer>
-  <div id="modal" class="is-open">
+  <div id="modal" class="modal">
     <div class="modal-info">
-      
+      <h1>Welcome to Tunes of the Week!</h1>
+      <p>This is a data visualization using D3.js and the Last.fm API to 
+        display top hits and top artist played on Last.fm last week.
+        <br><br>
+        You can hover over the bubbles to show the song or artist, and see how many
+        listeners they had last week. The bubbles are also interactive so you can drag them around
+        the screen!
+      </p>
     </div>
-    <div class="modal-close"></div>
+    <div id="modal-screen" class=" js-modal-close modal-screen"></div>
   </div>
 </body>
 </html>
