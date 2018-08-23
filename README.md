@@ -10,13 +10,11 @@ The size of the circles on the graph will be determined by how many plays the ar
 
 In Tunes of the Week, users can:
 
-- [ ] Select if they'd like to see artists or tracks
-- [ ] By clicking one of the buttons it will display top tracks or top tunes
+- [x] Select if they'd like to see artists or tracks
+- [x] By clicking one of the buttons it will display top tracks or top tunes
 - [ ] Search for a country of choice to display filtered top tunes
 - [ ] Double click a Bubble to navigate to the artist / track page on last.fm
-
-Additional Features
-- [ ] An about modal describing the project's insipration, and functionality
+- [x] An about modal describing the project's insipration, and functionality
 
 ### Wireframes
 
