@@ -32,9 +32,12 @@ h1 {
 }
 
 footer {
+  bottom: 0;
   padding: 15px;
   display: flex;
   justify-content: flex-end;
+  position: fixed;
+  width: 96vw;
 }
 
 i {
@@ -70,4 +73,9 @@ aside {
   border-radius: 5px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
+}
+
+.info-modal-icon {
+  float: right;
+  padding: 5px;
 }
