@@ -1,6 +1,8 @@
 # Tunes of the Week
 ### Background and Overview
 
+[live demo](https://robertfarb.github.io/tunes-of-the-week/)
+
 Tunes of the week is a data visuaization using D3.js and the Last.fm public API to provide users with last week's top artist's and last week's top tunes filtered by country.
 
 The size of the circles on the graph will be determined by how many plays the artist / album got during the week. User's can select top artist's or top tunes by clicking a button at the top of the page, and then enter their countrty of choice in a searchbar on the left of the screen.
