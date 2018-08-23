@@ -58,23 +58,21 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 **Day 2**: Completely dive into D3.js and create the circles that will populate the chart. Manipulate the circle sizes dependent on their data, and add the artist name as data to the circle
 
 - [x] Render all bubbles on graph
-- [ ] Complete tunes.js and add functional button on index.html which will call the function
-- [ ] Implement d3 Force into bubbles physics
-- [ ] Get collision graphics working
-- [ ] Figure out how to add a background image to a svg element
+- [x] Complete tunes.js and add functional button on index.html which will call the function
+- [x] Implement d3 Force into bubbles physics
+- [x] Get collision graphics working
 
 **Day 3**: Make the functional search bar that will allow users to see top hits filtered by country
 
-- [ ] Render a form on the index.html
+- [x] Render a form on the index.html
 - [ ] on submit the form will create an api call url and send a request to last.fm api to retreive information
 - [ ] Populate data in the bubble-chart
 
 
 **Day 4**: Add hover and click events to the chart that will display information about the songs / Add image backgrounds to each individual node.
 
-- [ ] Add hover events to all bubbles to display track / artist info.
-- [ ] Add background images to each bubble
-- [ ] Add animation effects to the bubble chart (user mouse interactivity)
+- [x] Add hover events to all bubbles to display track / artist info.
+- [x] Add animation effects to the bubble chart (user mouse interactivity)
 - [ ] Have a styled `Canvas`, good looking background image and well styled buttons
 
 
