@@ -74,6 +74,7 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 - [x] Add hover events to all bubbles to display track / artist info.
 - [x] Add animation effects to the bubble chart (user mouse interactivity)
 - [ ] Have a styled `Canvas`, good looking background image and well styled buttons
+- [ ] Add Information Modal describing the project
 
 
 ### Bonus features
