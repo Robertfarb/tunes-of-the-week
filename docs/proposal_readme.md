@@ -23,7 +23,7 @@ In Tunes of the Week, users can:
 This app will have a single screen in which I will manipulate dom elements based on click of Tracks / Artists. There will be nav links to the github repo, and my linked in in the lower right corner of the page, and a button with on click functionality to open the modal in the top right corner of the page.  
 
 
-![wireframes](docs/wireframe.png)
+![wireframes](./wireframe.png)
 
 ### Technologies
 
