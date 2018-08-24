@@ -65,16 +65,15 @@ In addition to the webpack entry file, there will be two scripts involved in thi
 **Day 3**: Make the functional search bar that will allow users to see top hits filtered by country
 
 - [x] Render a form on the index.html
-- [ ] on submit the form will create an api call url and send a request to last.fm api to retreive information
-- [ ] Populate data in the bubble-chart
-
+- [x] Populate data in the bubble-chart
+- [x] Add hover events to all bubbles to display track / artist info.
 
 **Day 4**: Add hover and click events to the chart that will display information about the songs / Add image backgrounds to each individual node.
 
-- [x] Add hover events to all bubbles to display track / artist info.
+- [ ] Add functionality to search bar to 
 - [x] Add animation effects to the bubble chart (user mouse interactivity)
-- [ ] Have a styled `Canvas`, good looking background image and well styled buttons
-- [ ] Add Information Modal describing the project
+- [x] Have a styled `Canvas`, good looking background image and well styled buttons
+- [x] Add Information Modal describing the project
 
 
 ### Bonus features

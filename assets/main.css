@@ -27,8 +27,11 @@ h1 {
   padding: 25px;
   border-radius: 5px;
   margin: 5px;
-  background-color: #B23200;
-  box-shadow: 1px 1px #80808054;;
+  background-color: #4e4e4e;
+  color: white;
+  font-weight: bold;
+  box-shadow: 1px 1px #80808054;
+  font-size: 15px;
 }
 
 footer {
@@ -57,10 +60,6 @@ i:hover{
 
 .country-input:focus {
   outline: none;
-}
-
-aside {
-  float: left;
 }
 
 .aside > button {
