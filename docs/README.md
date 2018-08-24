@@ -15,7 +15,7 @@ In Tunes of the Week, users can:
 - [x] Select if they'd like to see artists or tracks
 - [x] By clicking one of the buttons it will display top tracks or top tunes
 - [ ] Search for a country of choice to display filtered top tunes
-- [ ] Double click a Bubble to navigate to the artist / track page on last.fm
+- [x] Double click a Bubble to navigate to the artist / track page on last.fm
 - [x] An about modal describing the project's insipration, and functionality
 
 ### Wireframes
