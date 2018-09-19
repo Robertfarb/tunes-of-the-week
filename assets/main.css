@@ -106,7 +106,7 @@ i:hover{
   width: 365px;
   height: 355px;
   padding: 20px;
-  background: #fff;
+  background: #9ae6ff;
   z-index: 3;
   border-radius: 5px;
   border: 1px solid #000;
@@ -120,3 +120,18 @@ i:hover{
   font-family: 'Archivo', sans-serif;
   font-weight: 500;
 }
+
+#modal-x {
+  padding: 8px 16px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  border-radius: 5px;
+}
+
+#modal-x:hover {
+  color: white;
+  background-color: #ccc;
+  cursor: pointer;
+}
+
